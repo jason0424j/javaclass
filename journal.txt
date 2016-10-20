@@ -3,3 +3,6 @@ all the code have to follow steps and if you use the capital latter, you must us
  the capital latter at the bottom. i learn that how the code will translate to that 
 us understand. everthing must be correct, other wise the computer can't translate 
 into the word that we understand. 
+jggg
+
+

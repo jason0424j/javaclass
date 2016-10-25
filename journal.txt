@@ -1,8 +1,7 @@
-today i learn that how to write the code and how the code means to our computer. 
-all the code have to follow steps and if you use the capital latter, you must use
- the capital latter at the bottom. i learn that how the code will translate to that 
-us understand. everthing must be correct, other wise the computer can't translate 
-into the word that we understand. 
-jggg
-
+today we learn what's a ascill code and different 
+type of valuable, and how to input the number. we also 
+learn that what's a number, char and boolean.
+we started to lean what's a class and knows that there's 
+a data inside and also the little program that
+work for your data.
 

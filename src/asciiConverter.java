@@ -7,7 +7,14 @@ import java.util.Scanner;
 public class asciiConverter {
 
         public static void main(String[] args)
-        {
+        {Scanner keyboard = new Scanner(System.in);
+            byte x;
+            System.out.print("Enter a value between byte -127 to 127 ");
+            x = keyboard.nextByte();
+            char b =(char) x;
+            System.out.print("The ascii code for your number "+x+" is "+b);
+
+
 
         }
     }

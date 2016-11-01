@@ -1,7 +1,6 @@
-today we learn what's a ascill code and different 
-type of valuable, and how to input the number. we also 
-learn that what's a number, char and boolean.
-we started to lean what's a class and knows that there's 
-a data inside and also the little program that
-work for your data.
+today we learn how to solve the equation in
+java. how to use quadratic formula in java 
+and how to solve it as will. when to use char, 
+byte, int and dounle.
+
 

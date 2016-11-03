@@ -1,6 +1,6 @@
-today we learn how to solve the equation in
-java. how to use quadratic formula in java 
-and how to solve it as will. when to use char, 
-byte, int and dounle.
-
-
+today we learn how to solve more math
+problem and, teacher teach me when we
+will sue int, when we will use double
+he gave me three problem to solve it 
+and to make sure i know all the step 
+and write the program in right way.

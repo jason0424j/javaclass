@@ -10,7 +10,7 @@ public class Test_3 {
         System.out.println("Input a number: ");
         number = scanner.nextInt();
 
-        for(int i=0;i<11;i++){
+        for(int i=10;i>-1;i--){
             System.out.println(number + "x" + i + "=" + (number*i));
         }
     }

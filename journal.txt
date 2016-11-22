@@ -1,6 +1,4 @@
-today we learn how to solve more math
-problem and, teacher teach me when we
-will sue int, when we will use double
-he gave me three problem to solve it 
-and to make sure i know all the step 
-and write the program in right way.
+today we learn more about how to use 
+if statement, and also how to fix the statement
+tp that the program become better and 
+easier.  

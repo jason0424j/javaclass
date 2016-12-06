@@ -1,6 +1,7 @@
-today we learn how to use
-switch,, and aso teacher teach 
-me how to that the homework  
-become a better program. for todays
-homework i have to write a switch 
-program.
+today we learn how to 
+use array in java, we also fic the 
+homework and teacher teach me why
+if the number is too big it will 
+become negative number. for the homework 
+i have to use array to calculate the ages
+average. 

@@ -1,7 +1,7 @@
-today we learn how to 
-use array in java, we also fic the 
-homework and teacher teach me why
-if the number is too big it will 
-become negative number. for the homework 
-i have to use array to calculate the ages
-average. 
+today we learn more about array, 
+and su if inside array. at the beginning 
+is hard for me to understand what's the 
+different between calculate maximum and
+minimum but after i think about it, i understand
+it. for the homework, i have to caculate the 
+standard devation.
